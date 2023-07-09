@@ -509,7 +509,7 @@ button {
     display: flex;
     flex-direction: column;
     padding-bottom: 25px;
-    background: url(/img/headline\ 1.png) right 20% center no-repeat;
+    background: url(../img/headline\ 1.png) right 20% center no-repeat;
 }
 
 .top-line__container {
@@ -724,7 +724,7 @@ button {
 }
 
 .review__user:after {
-    content: url(/img/vk-blue\ 1.png);
+    content: url(../img/vk-blue\ 1.png);
     height: 29px;
 }
 
@@ -785,7 +785,7 @@ button {
 }
 
 .separator {
-    background: url(/img/Rectangle.png) right 20% bottom no-repeat;
+    background: url(../img/Rectangle.png) right 20% bottom no-repeat;
     min-height: 360px;
     display: flex;
     flex-direction: column;
